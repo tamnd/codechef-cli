@@ -1,0 +1,10 @@
+title       = "cc"
+baseURL     = "https://codechef-cli.tamnd.com/"
+description = "Browse CodeChef competitive programming problems"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/codechef-cli"
